@@ -1,0 +1,38 @@
+body{
+    font-family: 'Arimo', sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-image: url(../images/worldglow.png);
+}
+
+h1{
+    color: #eee;
+    margin-top: 50px;
+    font-size: 45px;
+    font-family: 'Anton', sans-serif;
+}
+
+.start{
+    background-color: #008080;
+    border: 2px solid #eee;
+    padding: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#timer{
+    padding:30px;
+    color: #eee;
+    font-size: 25px;
+}
+
+#gameTime{
+    margin: auto;
+    margin-top: 5%;
+    border: 2px solid #008080;
+    padding: 20px;
+    background-color: #eee;
+    width: 600px;
+    font-size: 18px;
+}
+
