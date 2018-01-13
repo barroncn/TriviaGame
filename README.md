@@ -7,4 +7,4 @@ This app was my first time using timers (setTimeout, setInterval). The game runs
 
 Technologies Used:
 
-JavaScript | Jquery | Bootstrap 
+JavaScript | jQuery | HTML5 | CSS3 
