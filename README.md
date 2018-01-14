@@ -1,4 +1,4 @@
-World Trivia Game
+# World Trivia Game
 
 [Check it out here!](https://barroncn.github.io/TriviaGame/)
 
